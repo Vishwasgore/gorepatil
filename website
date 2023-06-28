@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF=8">
+        <title>Vishwas Gore Web Page</title>
+    </head>
+    <body>
+        <h1>Welcome To My Website </h1>
+        <p>My Self:</p>
+        <a href="https://youtube.com/shorts/OLX2pAuWhMM?feature=share"><img src="../vivu - Copy (2).jpg" /></a>
+        <a href="https://youtube.com/shorts/OLX2pAuWhMM?feature=share">Please click Here For My Youtube Channel</a>
+        <h2>Greatest Quotes of Great People</h2>
+        <p>
+            <ol>
+                <li>The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela</li>
+                <li>The way to get started is to quit talking and begin doing. -Walt Disney</li>
+                <li>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs</li>
+                <li>If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt</li>
+                <li>If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey</li>
+
+            </ol>
+        </p>
+        <h2>Some Marathi Quotes</h2>
+        <p>
+            <ul>
+                <li>खूप कमी लोक आपल्या आयुष्यात सुख
+
+                    आणि आशीर्वाद घेऊन येतात ,
+                    
+                    पण खूप जास्त लोक आपल्याला कटू
+                    
+                    अनुभव आणि शिकवण देण्यासाठी येतात..</li>
+                    <li>आपण जसे आहोत तसे स्वतःला स्वीकारलं पाहिजे ,
+
+                        कारण जगात आपल्यापेक्षाही कोणीतरी कमनिशिबी असतं
+                        
+                        ,ज्या लोकांनी तुम्हाला निराश केल त्यांना दोष देऊ नका ,
+                        
+                        स्वतःला दोष द्या कारण तुम्ही त्यांच्याकडून जास्त अपेक्षा ठेवल्या</li>
+            </ul>
+
+        </p>
+    </body>
+</html>
+    
